@@ -1,0 +1,22 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+.nav-bar {
+    background-color: ;
+}
+.fs-4 {
+    font-weight: bolder;
+    font-size: 500px;
+}
+.about-h1 {
+    text-align: center;
+    font-size: 50px;
+}
+.lead {
+    text-align: center;
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+}
